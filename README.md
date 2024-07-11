@@ -7,9 +7,8 @@ Assignment #2:
  
 Submitted to:   Ma’am Kainat Iqbal
  
-Submitted by:  Syeda Eman Ali, Vanya Shafiq, Aliza Saadi
-                                 ( i221936, i221953, i221871 )
- 
+Submitted by:  Syeda Eman Ali (i221936), Vanya Shafiq (i221953), Aliza Saadi (i221871)
+
 Course Name:   Fundamentals of Big Data Analytics
  
 Department/section: DS-4A
